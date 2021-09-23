@@ -4,7 +4,7 @@ Spring 2021
 
 Solution to practical homeworks and projects of Machine learning graduate course CE-717
 
-1. # EDA & Visualization: This is a practice of EDA and Visualization methods on [this](https://github.com/atoosachegini/Machine-Learning-CE717/blob/main/EDA%20%26%20Visualization/data.csv) dataset.
+1. # EDA & Visualization#: This is a practice of EDA and Visualization methods on [this](https://github.com/atoosachegini/Machine-Learning-CE717/blob/main/EDA%20%26%20Visualization/data.csv) dataset.
 
 2. Linear and Polynomial Regression: [This](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/Linear%20and%20Polynomial%20Regression) is a practice of implementation Linear and Polynomial Regression from scratch in Python.
 
