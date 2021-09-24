@@ -14,7 +14,7 @@ This is a practice of EDA and Visualization methods on [this](https://github.com
 A practice of three machine-learning methods on [Blood Transfusion Service Center dataset](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
 ### 4. Loopy Belief:
-[This](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/Loopy%20Belief) is a implementation of Loopy belief propagation for LCPD.
+[This](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/Loopy%20Belief) is an implementation of Loopy belief propagation for LCPD.
 
 ### 5. Kmeans & GMM:
 [This](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/Kmeans%20%26%20GMM) is an implementation of K-means and EM for GMM from scratch.
@@ -25,7 +25,7 @@ A practice of three machine-learning methods on [Blood Transfusion Service Cente
 ## 7. Projects:
    ### 1) COVID19-data-classification-prediction:
    [A machine learning project](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/COVID19-data-classification-prediction) to anticipate if patients need ICU to plan better during COVID-19 epidemy. I tested different methods. My final method is Logistic Regression which is
-  able to predict if a patient needs to be admitted to ICU only by using the data in his first hours of being in the hospital. With this method I have reached to F-Score 83%
+  able to predict if a patient needs to be admitted to ICU only by using the data in his first hours of being in the hospital. With this method I have reached to F-Score of 83%
   
    ### 2) Sarcasm Detection:
    [This](https://github.com/atoosachegini/Machine-Learning-CE717/tree/main/Sarcasm_Detection) is a group project in which we have tested many methods include SVM, Adaboost, Naive-Bayes and Deep-Learning Networks
